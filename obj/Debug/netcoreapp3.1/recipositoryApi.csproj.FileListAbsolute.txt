@@ -92,3 +92,8 @@ C:\Users\Toe\projects\source\git\RecipositoryApi\bin\Debug\netcoreapp3.1\runtime
 C:\Users\Toe\projects\source\git\RecipositoryApi\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
 C:\Users\Toe\projects\source\git\RecipositoryApi\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
 C:\Users\Toe\projects\source\git\RecipositoryApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\recipositoryApi.styles.css
+C:\Users\Toe\projects\source\git\RecipositoryApi\bin\Debug\netcoreapp3.1\out\web.config
+C:\Users\Toe\projects\source\git\RecipositoryApi\bin\Debug\netcoreapp3.1\out\appsettings.Development.json
+C:\Users\Toe\projects\source\git\RecipositoryApi\bin\Debug\netcoreapp3.1\out\appsettings.json
+C:\Users\Toe\projects\source\git\RecipositoryApi\bin\Debug\netcoreapp3.1\out\recipositoryApi.deps.json
+C:\Users\Toe\projects\source\git\RecipositoryApi\bin\Debug\netcoreapp3.1\out\recipositoryApi.runtimeconfig.json
