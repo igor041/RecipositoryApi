@@ -1,4 +1,5 @@
-
+obj/
+bin/
 .vs/recipositoryApi/DesignTimeBuild/.dtbcache.v2
 .vs/recipositoryApi/DesignTimeBuild/.dtbcache.v2
 .vs/recipositoryApi/v16/.suo
